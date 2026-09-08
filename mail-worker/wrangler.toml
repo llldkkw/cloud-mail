@@ -33,3 +33,5 @@ crons = ["0 * * * *"]
 
 [build]
 command = "pnpm --prefix ../mail-vue install && pnpm --prefix ../mail-vue run build"
+
+# upgraded to v3.3.0
